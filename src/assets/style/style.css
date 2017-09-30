@@ -1,14 +1,19 @@
 
 
 .body {
-    -fx-background-color: #34495e;
+    -fx-background-color: #37474F;
 }
 
 .mp3-body {
-    -fx-background-color:  #16a085;
+    -fx-background-color: #263238;
     text-align: center;
 }
 
+
+.h1 {
+    font: 15px arial, sans-serif;
+    
+}
 
 
 .button {
